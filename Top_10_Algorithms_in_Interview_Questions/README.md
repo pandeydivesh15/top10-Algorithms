@@ -1,6 +1,6 @@
 # Topics
 
-_Note: ~~sampleTopic~~ means sampleTopic is implemented._
+_Note: ~~sampleTopic~~ means implementation of sampleTopic is complete._
 
 ## Graph
 
